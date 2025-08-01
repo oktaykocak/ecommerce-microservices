@@ -50,7 +50,6 @@ APP_PORT=8090
 ```
 
 ### 3. Start with Docker Compose
-Create **.env** files for each service with necessary variables, for example:
 ```bash
 docker-compose up --build
 ```
